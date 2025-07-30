@@ -1,3 +1,5 @@
+
+## Project Under Construction!!
 # HopNGo: Unified Ride Booking Platform
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
@@ -6,7 +8,6 @@
 
 **HopNGo** is a revolutionary Flutter-based web application that aggregates ride-hailing services from multiple platforms including Ola, Uber, and Rapido, allowing users to find and book the **cheapest and fastest ride** with a single click.
 
-🌐 **[Live Demo](https://your-demo-link.com)**
 
 ## ✨ Features
 
@@ -352,15 +353,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Open Source Contributors** who make projects like this possible
 - **Ride-hailing Platforms** for providing transportation services
 
-## 📈 Analytics
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/hopngo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/hopngo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/hopngo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/hopngo)
-
----
-
-**Made with ❤️ by the HopNGo Team**
-
-*Simplifying ride booking, one comparison at a time.*
